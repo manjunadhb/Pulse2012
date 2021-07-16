@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         var age:UInt8 = 20
+        var name:String = "Sachin";
         // Do any additional setup after loading the view.
     }
 
